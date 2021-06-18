@@ -1,4 +1,8 @@
 # leaflet-challenge
+```diff
+-IMPORTANT NOTE: Please be aware that to run logic.js and properly pull maps
+- an API key for Mapbox must be added to the config.py file 
+```
 
 # Leaflet Homework - Visualizing Data with Leaflet
 
